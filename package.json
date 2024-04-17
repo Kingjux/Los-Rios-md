@@ -1,12 +1,12 @@
 {
-  "name": "kingjux",
+  "name": "Kingjux",
   "version": "2.0.0",
   "description": "",
   "main": "venocyber.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node venocyber.js",
-    "kingjux": "pm2 start venocyber.js --attach --max-memory-restart 490M",
+    "Kingjux": "pm2 start venocyber.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
@@ -17,7 +17,7 @@
     "los-rios-md",
     "venocyber"
   ],
-  "author": "kingjux",
+  "author": "Kingjux",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
