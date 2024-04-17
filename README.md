@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<u>♥️ ʟᴏs ʀɪᴏs ᴍᴅ ᴄᴀʀ 🚘 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝐕𝐞𝐧𝐨𝐜𝐲𝐛𝐞𝐫 𝐀𝐝𝐦𝐢𝐧 ♥️</u>
+<u>♥️ ʟᴏs ʀɪᴏs ᴍᴅ 🚘 🚘 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝐕𝐞𝐧𝐨𝐜𝐲𝐛𝐞𝐫 𝐀𝐝𝐦𝐢𝐧 ♥️</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/efa95dac659f93718b73f.jpg" width="300" height="300"/>
