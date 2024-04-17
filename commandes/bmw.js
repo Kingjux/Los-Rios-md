@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { france } = require("../framework/france");
 france({ nomCom: "bmw", reaction: "🚗", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '𝚃𝙷𝙸𝚂 𝙸𝚂 𝚄𝙽𝙸𝚀𝚄𝙴 𝙼𝙳 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝚆𝙰𝚂𝙸 𝚃𝙴𝙲𝙷🥷 🚗 \n\n ' + "║❒ 𝗥𝗲𝗽𝗼https://github.com/Kingjux/Los-Rios-md ";
+    let z = '𝚃𝙷𝙸𝚂 𝙸𝚂 𝙻𝙾𝚂 𝚁𝙸𝙾𝚂 𝙼𝙳 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝚅𝙴𝙽𝙾𝙲𝚈𝙱𝙴𝚁 𝚃𝙴𝙲𝙷🥷 🚗 \n\n ' + "║❒ 𝗥𝗲𝗽𝗼https://github.com/Kingjux/Los-Rios-md ";
     let d = '       ║❒ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 https://youtube.com/@JASTINMTEWA-vn9pl?si=E-WDZayoE0NRM6YQ';
     let varmess = z + d;
     var mp4 = 'https://telegra.ph/file/789ff523af28f7292aa9c.mp4';
