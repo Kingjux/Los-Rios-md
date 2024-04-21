@@ -47,7 +47,7 @@
 * ᴘᴀɪʀ ᴅᴇᴠɪᴄᴇ ʜᴇʀᴇ 👇👇👇
 
   <p align="left">
-<a href="https://venocyberv2pairer-65ebc2ac9dc9.herokuapp.com/pair"><img align="center" src="https://telegra.ph/file/8aab1ad642af1798b13d1.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://venocybermd-316ecec55d07.herokuapp.com/pair"><img align="center" src="https://telegra.ph/file/8aab1ad642af1798b13d1.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 
 
 # 
