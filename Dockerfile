@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Kingjux/Los-Rios-md.git  /root/Kingjux
+RUN git clone https://github.com/Kingjux/Los-Rios-md /root/Kingjux
 WORKDIR /root/Kingjux/
 
 
