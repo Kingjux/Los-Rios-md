@@ -25,10 +25,15 @@
 
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/kingjux)
 <b>Version -> 2.0.0</b>
+
+### DISCLAIMER ⚠️⚠️⚠️
+[PLEASE KINDLY DON'T MAKE ANY CHANGES ON THIS REPO BEFORE CONTACT THE OWNER CLICK HERE TO NOTIFY](https://wa.me/message/MZ7PT2QZ3TNSC1)
  
 # Los Rios MD whatsapp bot is,
 
       Los Rios md whatsapp bot is an easy to use whatsapp robot.   |  Los Rios md whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+
+      [follow me here](https://github.com/kingjux)
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
