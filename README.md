@@ -33,7 +33,8 @@
 
       Los Rios md whatsapp bot is an easy to use whatsapp robot.   |  Los Rios md whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
-      [follow me here](https://github.com/kingjux)
+#
+*[follow the developer by clicking here](https://github.com/kingjux/)
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
