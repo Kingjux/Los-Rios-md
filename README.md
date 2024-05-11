@@ -53,7 +53,7 @@
 * ᴘᴀɪʀ ᴅᴇᴠɪᴄᴇ ʜᴇʀᴇ 👇👇👇
 
   <p align="left">
-<a href="https://venocybersession-92030da961de.herokuapp.com/pair"><img align="center" src="https://telegra.ph/file/8aab1ad642af1798b13d1.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://venocybersessiong-1431c6f72219.herokuapp.com/pair"><img align="center" src="https://telegra.ph/file/8aab1ad642af1798b13d1.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 
 
 # 
