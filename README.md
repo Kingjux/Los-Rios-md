@@ -44,7 +44,7 @@
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://rios-c72316d92731.herokuapp.com/)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://veno-session.onrender.com/qr)
 
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 
@@ -53,7 +53,7 @@
 * ᴘᴀɪʀ ᴅᴇᴠɪᴄᴇ ʜᴇʀᴇ 👇👇👇
 
   <p align="left">
-<a href="https://venocybersessiong-1431c6f72219.herokuapp.com/pair"><img align="center" src="https://telegra.ph/file/8aab1ad642af1798b13d1.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://veno-session.onrender.com/"><img align="center" src="https://telegra.ph/file/8aab1ad642af1798b13d1.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 
 
 # 
